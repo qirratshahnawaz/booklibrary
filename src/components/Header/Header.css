@@ -1,0 +1,14 @@
+.header-content{
+    min-height: 85vh;
+    background: linear-gradient(rgba(28, 25, 28, 0.3), rgba(34, 31, 34, 0.5)), url("../../images/360_F_650587420_iqiG7NXrBaVmU2OtYcMtQhv7zjqdq84E.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
